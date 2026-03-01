@@ -88,7 +88,11 @@ curl "http://localhost:8080/App/hello?name=Diego"
 curl "http://localhost:8080/App/pi"
 curl -i "http://localhost:8080/index.html"
 ```
-
+![img_8.png](img_8.png)
+--
+![img_9.png](img_9.png)
+--
+![img_10.png](img_10.png)
 ---
 ## Authors
 
