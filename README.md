@@ -65,7 +65,7 @@ It:
 Open in browser:
 
 - http://localhost:8080/index.html
-![img.png](img.png)
+![img.png](src/main/resources/Images/img.png)
 
 ### 2) REST services
 
@@ -74,13 +74,13 @@ Open in browser:
 
 Expected output:
 - `Hello Diego`
-![img_2.png](img_2.png)
+![img_2.png](src/main/resources/Images/img_2.png)
 #### Pi endpoint
 - http://localhost:8080/App/pi
 
 Expected output:
 - `3.1415926535...`
-![img_3.png](img_3.png)
+![img_3.png](src/main/resources/Images/img_3.png)
 
 ### Using curl (examples)
 ```bash
@@ -88,11 +88,11 @@ curl "http://localhost:8080/App/hello?name=Diego"
 curl "http://localhost:8080/App/pi"
 curl -i "http://localhost:8080/index.html"
 ```
-![img_8.png](img_8.png)
+![img_8.png](src/main/resources/Images/img_8.png)
 --
-![img_9.png](img_9.png)
+![img_9.png](src/main/resources/Images/img_9.png)
 --
-![img_10.png](img_10.png)
+![img_10.png](src/main/resources/Images/img_10.png)
 ---
 ## Authors
 
